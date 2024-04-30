@@ -1,0 +1,1 @@
+This repository contains a collection of SQL tables designed for various applications. Each table is meticulously crafted to serve specific data storage needs, whether it's for managing users, products, or any other domain. 
